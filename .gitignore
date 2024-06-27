@@ -1,4 +1,5 @@
 data
 plots
+figures
 *.lamindb
 *.lndb
