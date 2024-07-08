@@ -3,3 +3,4 @@ plots
 figures
 *.lamindb
 *.lndb
+*.h5ad
